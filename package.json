@@ -1,0 +1,13 @@
+{
+  "name": "Crypto-info",
+  "description": "Crypto info chrome extension",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4"
+  }
+}
